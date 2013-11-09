@@ -1,4 +1,4 @@
-EQEmu-e107
+EQLink
 ==========
 
 Everquest Emulator Plugin for the e107 CMS
